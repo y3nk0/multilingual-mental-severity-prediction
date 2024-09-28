@@ -10,7 +10,7 @@ python run_experiments.py
 
 ## Citation
 
-If you use this repository in your work, please cite it as follows:
+If you use our dataset or code from this repository in your work, please cite it as follows:
 
 ```bibtex
 @misc{skianis2024severitypredictionmentalhealth,
