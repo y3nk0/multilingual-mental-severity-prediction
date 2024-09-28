@@ -6,6 +6,7 @@ This repo offers the official implementation of the paper: "Severity Prediction 
 
 ```python
 python run_experiments.py
+```
 
 ## Citation
 
@@ -21,3 +22,4 @@ If you use this repository in your work, please cite it as follows:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2409.17397},
 }
+```
