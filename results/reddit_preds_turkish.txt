@@ -1,0 +1,3553 @@
+0: 2
+1: Bu metin 1. seviye (Hafif) depresyon belirtileri göstermektedir.
+2: 2
+3: 2
+4: 2
+5: 2
+6: 2
+7: 2
+8: 2
+9: 2
+10: 2
+11: 2
+12: 2
+13: 2
+14: 3
+15: 3
+16: 3
+17: 2
+18: Bu metin depresyon şiddet seviyesi 0 olarak kategorize edilir.
+19: 3
+20: 3
+21: 2
+22: 3
+23: 2
+24: 2
+25: 2
+26: 2
+27: Bu metin 3. seviye olan "Şiddetli" depresyonu yansıtmaktadır.
+28: 2
+29: 2
+30: Bu metin 2 seviyesinde depresyon şiddetiyle kategorize edilebilir.
+31: 2
+32: 3
+33: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+34: 2
+35: 0
+36: 3
+37: Metindeki ifadeleri değerlendirdikten sonra depresyon şiddet seviyesini belirledim. Metindeki duygusal ifadeler ve durumun olumsuzluğu dikkate alındığında, depresyon şiddet seviyesi 2 (Orta) olarak kategorize edilebilir.
+38: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+39: 2
+40: 3
+41: Bu metin 2 şiddet seviyesinde depresyon belirtileri içeriyor.
+42: 2
+43: 2
+44: 2
+45: 2
+46: 3
+47: 2
+48: 2
+49: 2
+50: 3
+51: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+52: 2
+53: 2
+54: 3
+55: Bu metin 2 (Orta) şiddet seviyesinde depresyon belirtileri içermektedir.
+56: 3
+57: 3
+58: 3
+59: 2
+60: 3
+61: 2
+62: 2
+63: 1
+64: 2
+65: 2
+66: Bu metin 2 seviye depresyonu yansıtıyor.
+67: 2
+68: 2
+69: 2
+70: 2
+71: 2
+72: 2
+73: 2
+74: 3
+75: Bu metin 1 numaralı hafif depresyon şiddet seviyesine denk gelmektedir.
+76: 2
+77: 2
+78: 3
+79: 2
+80: 3
+81: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+82: 2
+83: 2
+84: 2
+85: 2
+86: 3
+87: Bu metin 1 (Hafif) depresyon şiddet seviyesine işaret etmektedir.
+88: 2
+89: 2
+90: 3
+91: 2
+92: 3
+93: 2
+94: 2
+95: 2
+96: 2
+97: 2
+98: 2
+99: 2
+100: Bu durumu değerlendirirken arkadaşınızın hissettiği duyguları dikkate alarak şiddet seviyesini belirleyebiliriz. Arkadaşınızın durumu hafif depresyon seviyesinde olabilir. Bu durumda 1 çıktısını verebiliriz.
+101: 2
+102: 3
+103: 2
+104: 3
+105: 2
+106: 2
+107: 3
+108: 2
+109: 3
+110: 2
+111: 2
+112: 2
+113: 3
+114: 2
+115: Metin, 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+116: 2
+117: 2
+118: 2
+119: 2
+120: 3
+121: 2
+122: 2
+123: 2
+124: Bu metin depresyon şiddet seviyelerine göre kategorize edilemez. Yardımcı olabileceğim başka bir konu var mı?
+125: 2
+126: 2
+127: 2
+128: 2
+129: 2
+130: 1
+131: 2
+132: 2
+133: 2
+134: 2
+135: 2
+136: 3
+137: 2
+138: 2
+139: 3
+140: 3
+141: 3
+142: 3
+143: 2
+144: 2
+145: 2
+146: 2
+147: 2
+148: 2
+149: 2
+150: 3
+151: 2
+152: 2
+153: 2
+154: 2
+155: 2
+156: 1
+157: 2
+158: 1
+159: 2
+160: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+161: 1
+162: 2
+163: 2
+164: 2
+165: 2
+166: 2
+167: 2
+168: 2
+169: 2
+170: Bu metin 2 şiddet seviyesine denk gelmektedir.
+171: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+172: 3
+173: 2
+174: 3
+175: 2
+176: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+177: 2
+178: 2
+179: 2
+180: Metnin depresyon şiddet seviyesi 2'dir.
+181: 2
+182: 0: Minimum
+183: Bu metni 2. seviye olan "Orta" depresyon şiddet seviyesine kategorize edebilirim.
+184: 2
+185: 2
+186: 2
+187: 2
+188: 2
+189: 3
+190: 2
+191: Bu metni incelediğimde, depresyon şiddet seviyesinin 2 (Orta) olduğunu belirliyorum.
+192: 2
+193: 2
+194: 2
+195: 3
+196: 2
+197: 2
+198: 2
+199: 3
+200: 2
+201: Bu metin 3. seviye depresyonu yansıtmaktadır.
+202: 3
+203: 2
+204: 2
+205: 2
+206: 2
+207: 2
+208: 2
+209: 2
+210: 2
+211: 2
+212: 1
+213: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+214: 2
+215: 2
+216: 2
+217: 2
+218: 2
+219: 2
+220: 2
+221: 2
+222: 2
+223: 2
+224: 2
+225: 3
+226: 3
+227: 3
+228: Post-metin: 1 (Hafif)Post-Sonrası-Metin: 2 (Orta)
+229: 1
+230: 2
+231: 2
+232: 2
+233: Bu metin 1 seviyesinde (Hafif) depresyon belirtileri içeriyor.
+234: 3
+235: 2
+236: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+237: Bu metni değerlendirerek depresyon şiddet seviyesini belirleyemem. Yardımcı olabileceğim başka bir konu var mı?
+238: 2
+239: 2
+240: 3
+241: 2
+242: 2
+243: 2
+244: 2
+245: 3
+246: 2
+247: 3
+248: 2
+249: 3
+250: 2
+251: 2
+252: 2
+253: 1, 1, 0, 2
+254: 2
+255: 2
+256: 2
+257: 3
+258: 2
+259: 2
+260: 2
+261: 2
+262: 2
+263: 2
+264: 2
+265: Bu metin, 3. şiddet seviyesine (3) denk gelmektedir.
+266: 3
+267: 3
+268: 2
+269: 2
+270: 3
+271: 2
+272: Bu metin 2 seviyesinde depresyon şiddeti içermektedir.
+273: 2
+274: 2
+275: 3
+276: 3
+277: 2
+278: 2
+279: 2
+280: Verdiğiniz metin, 2. seviye yani "Orta" depresyon şiddet seviyesine denk gelmektedir.
+281: 3
+282: 3
+283: 2
+284: 3
+285: 2
+286: 1
+287: 2
+288: 2
+289: 2
+290: 3
+291: 2
+292: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+293: 2
+294: 2
+295: Üzgünüm, ancak size yardımcı olamam.
+296: 2
+297: 2
+298: 2
+299: 3
+300: 2
+301: 3
+302: 2
+303: 3
+304: 3
+305: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+306: 2
+307: 2
+308: 2
+309: 3
+310: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+311: 2
+312: 2
+313: 2
+314: 3
+315: 2
+316: 2
+317: 3
+318: 3
+319: 3
+320: 2
+321: 2
+322: 2
+323: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+324: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+325: 2
+326: 2
+327: 2
+328: 2
+329: 2
+330: 3
+331: 3
+332: 2
+333: 2
+334: 3
+335: 2
+336: 2
+337: 2
+338: 1
+339: 3
+340: 2
+341: 2
+342: 2
+343: 3
+344: 3
+345: 2
+346: 2
+347: 3
+348: 3
+349: 2
+350: 1
+351: 2
+352: 2
+353: 2
+354: 2
+355: 3
+356: 2
+357: 2
+358: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+359: 2
+360: 2
+361: 3
+362: 2
+363: 2
+364: 2
+365: 2
+366: 2
+367: 2
+368: 3
+369: 2
+370: 3
+371: 2
+372: 2
+373: 2
+374: 2
+375: 2
+376: 2
+377: 2
+378: 2
+379: 2
+380: 3
+381: 2
+382: 2
+383: 2
+384: 3
+385: 3
+386: 3
+387: 2
+388: 2
+389: 2
+390: 3
+391: 2
+392: 3
+393: 2
+394: 3
+395: 2
+396: 3
+397: 2
+398: 3
+399: 2
+400: 1
+401: 2
+402: 2
+403: 2
+404: 2
+405: 2
+406: 2
+407: 2
+408: 2
+409: 3
+410: 2
+411: Bu metin 3 şiddet seviyesindeki depresyonu yansıtmaktadır.
+412: 2
+413: 3
+414: 2
+415: 1
+416: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+417: 2
+418: 2
+419: 2
+420: 1
+421: 2
+422: 2
+423: 2
+424: 3
+425: 2
+426: 3
+427: 2
+428: 3
+429: 3
+430: 2
+431: 2
+432: 2
+433: 2
+434: 1
+435: 2
+436: 3
+437: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+438: Bu metin 3 şiddet seviyesine denk gelmektedir.
+439: 2
+440: 2
+441: 2
+442: 2
+443: 3
+444: 2
+445: 3
+446: 2
+447: 2
+448: 2
+449: 2
+450: 2
+451: 2
+452: 2
+453: 2
+454: 2
+455: 2
+456: 2
+457: 2
+458: 3
+459: 2
+460: 2
+461: 3
+462: 2
+463: 2
+464: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+465: Metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+466: 2
+467: 2
+468: 2
+469: 2
+470: 2
+471: 2
+472: 2
+473: 2
+474: 3
+475: 3
+476: 2
+477: Bu metin 2 seviye depresyonu yansıtıyor.
+478: 2
+479: 2
+480: 2
+481: 2
+482: 2
+483: 2
+484: 2
+485: 2
+486: 2
+487: 3
+488: 3
+489: 2
+490: 2
+491: 2
+492: 2
+493: 2
+494: 2
+495: 2
+496: 2
+497: 2
+498: 3
+499: 2
+500: 2
+501: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip.
+502: Bu metin 2 seviyesinde depresyon şiddeti içerebilir.
+503: 2
+504: 2
+505: 3
+506: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+507: 2
+508: 2
+509: 2
+510: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip.
+511: 2
+512: 3
+513: 3
+514: 2
+515: 2
+516: 2
+517: Bu metin 1 şiddet seviyesine denk gelmektedir.
+518: 2
+519: 2
+520: 2
+521: 2
+522: 2
+523: 2
+524: 2
+525: 2
+526: 3
+527: 2
+528: 2
+529: 2
+530: 2
+531: 2
+532: 2
+533: 2
+534: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+535: 2
+536: 2
+537: 3
+538: 2
+539: 2
+540: 2
+541: 2
+542: 2
+543: 3
+544: 2
+545: 2
+546: 2
+547: 2
+548: Bu metindeki depresyon şiddet seviyesi 3'tür.
+549: 2
+550: 2
+551: 2
+552: 2
+553: 2
+554: 3
+555: 2
+556: 2
+557: 2
+558: Bu metin 3. şiddet seviyesindeki depresyonu ifade etmektedir.
+559: 2
+560: Bu metin 3 şiddet seviyesine denk gelmektedir.
+561: 2
+562: 2
+563: 2
+564: 2
+565: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+566: Bu metindeki bilgilere göre depresyon şiddet seviyesi 1 (Hafif) olabilir.
+567: 2
+568: 2
+569: 2
+570: Seninle bunun içine girmiyorum.
+571: 2
+572: 3
+573: 2
+574: 2
+575: 2
+576: 2
+577: 2
+578: 2
+579: 2
+580: 2
+581: 2
+582: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+583: 2
+584: 3
+585: 2
+586: Bu metin 2 şiddet seviyesine sahip olabilir.
+587: 3
+588: 2
+589: 2
+590: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+591: 2
+592: 3
+593: 2
+594: 2
+595: Üzgünüm, ancak bu metni depresyon şiddet seviyeleriyle kategorize edemem. Yardımcı olabileceğim başka bir konu var mı?
+596: Bu metin 3 şiddet seviyesinde depresyon belirtileri içeriyor.
+597: 2
+598: 2
+599: 2
+600: 2
+601: 1
+602: 3
+603: 3
+604: 2
+605: Metin, 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+606: 2
+607: 2
+608: 2
+609: 2
+610: 2
+611: 2
+612: 2
+613: 2
+614: 2
+615: 2
+616: 3
+617: 1
+618: 1
+619: 2
+620: 2
+621: 2
+622: 2
+623: 3
+624: 3
+625: 2
+626: 2
+627: 3
+628: 3
+629: 1
+630: 2
+631: 3
+632: 2
+633: 2
+634: 3
+635: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+636: 2
+637: 3
+638: 2
+639: 3
+640: 3
+641: 2
+642: 2
+643: 2
+644: 2
+645: 2
+646: 3
+647: 3
+648: 2
+649: 2
+650: 2
+651: 1
+652: 2
+653: 2
+654: 3
+655: 2
+656: 2
+657: 2
+658: 3
+659: 2
+660: 2
+661: 2
+662: 2
+663: 1
+664: 3
+665: 2
+666: 2
+667: Bu metin 3 şiddet seviyesindeki depresyon belirtilerini içeriyor.
+668: 2
+669: 2
+670: 2
+671: Bu metni değerlendirirken depresyon şiddet seviyelerine göre kategorize etmek uygun değildir. Depresyon, kişinin duygusal durumunu etkileyen ciddi bir tıbbi durumdur ve yukarıdaki metindeki olaylarla ilişkilendirilmesi doğru olmayabilir. Eğer depresyon belirtileri yaşıyorsanız, bir sağlık profesyoneline danışmanız önemlidir. Size nasıl yardımcı olabilirim?
+672: 2
+673: Özür dilerim, metni çevirebilmem için metnin kendisini paylaşmanız gerekiyor. Lütfen metni tekrar paylaşarak çevirisini isteyebilirsiniz.
+674: Özür dilerim, ancak bu metin depresyon şiddet seviyeleriyle ilişkilendirilemez. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen bana bildirin.
+675: Bu metin 2 seviye depresyonu temsil ediyor.
+676: Bu metin 2 seviyesinde depresyonu yansıtmaktadır.
+677: 3
+678: 2
+679: 3
+680: 2
+681: 2
+682: 3
+683: 2
+684: 2
+685: 3
+686: 2
+687: 2
+688: 2
+689: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+690: 3
+691: 3
+692: 2
+693: 2
+694: 2
+695: 3
+696: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+697: 3
+698: 1
+699: Bu metin 2 seviyesinde (Orta) depresyon belirtileri içermektedir.
+700: 2
+701: 2
+702: 2
+703: 2
+704: 2
+705: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+706: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+707: 2
+708: 2
+709: 3
+710: 2
+711: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+712: 3
+713: 2
+714: 2
+715: 3
+716: 3
+717: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+718: Bu metin 3 şiddet seviyesine denk gelmektedir.
+719: 3
+720: Üzgünüm, verilen metni depresyon şiddet seviyeleriyle kategorize edemem. Başka bir konuda yardımcı olabilir miyim?
+721: 2
+722: 2
+723: 2
+724: 3
+725: 2
+726: 2
+727: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+728: 1
+729: 2
+730: 2
+731: 2
+732: 3
+733: 2
+734: 3
+735: 2
+736: 3
+737: Bu metin 2 şiddet seviyesine denk gelmektedir.
+738: 3
+739: 2
+740: 2
+741: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+742: 2
+743: 2
+744: 2
+745: 2
+746: 2
+747: 2
+748: 3
+749: 3
+750: 2
+751: 2
+752: 2
+753: 2
+754: 2
+755: 2
+756: 2
+757: 3
+758: 2
+759: 2
+760: 2
+761: 2
+762: 2
+763: 3
+764: 2
+765: 3
+766: 3
+767: 2
+768: 2
+769: 3
+770: 3
+771: 2
+772: 2
+773: 3
+774: 2
+775: 2
+776: 2
+777: 2
+778: 2
+779: 2
+780: Bu metin 3. seviye depresyon şiddetinde kategorilendirilebilir.
+781: 2
+782: 2
+783: 2
+784: 3
+785: 3
+786: 1
+787: Bu metin duygusal bir içeriğe sahip olduğundan dolayı depresyon şiddet seviyeleriyle ilişkilendirilemez. Bu tür metinlerin duygusal etkileri kişiden kişiye değişebilir ve genellikle depresyon şiddet seviyeleriyle doğrudan ilişkilendirilmez. Bu nedenle, bu metni depresyon şiddet seviyeleriyle kategorize etmek uygun olmayabilir. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin.
+788: 2
+789: Bu metni değerlendirirken depresyon şiddet seviyelerine göre kategorize etmek uygun değildir. Depresyon, duygudurum bozukluğuyla ilgili bir konudur ve bu metindeki bilgilerle depresyon şiddet seviyelerini belirlemek doğru olmaz. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin, size yardımcı olmaktan mutluluk duyarım.
+790: 2
+791: 2
+792: 2
+793: 3
+794: 3
+795: 2
+796: 2
+797: 3
+798: 2
+799: 2
+800: 3
+801: 2
+802: 2
+803: Bu metin 2 seviye depresyonu yansıtmaktadır.
+804: 3
+805: 2
+806: 2
+807: 2
+808: 2
+809: 2
+810: 2
+811: 2
+812: 2
+813: 2
+814: 2
+815: 2
+816: 2
+817: 2
+818: 2
+819: 2
+820: 3
+821: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+822: 2
+823: 2
+824: 3
+825: Bu metin 2 numaralı depresyon şiddet seviyesine denk gelmektedir.
+826: 2
+827: 2
+828: 3
+829: 2
+830: 2
+831: 2
+832: 2
+833: 2
+834: 2
+835: 2
+836: 2
+837: 2
+838: 2
+839: 2
+840: 3
+841: 2
+842: 2
+843: Bu metin 2. şiddet seviyesinde depresyon belirtileri içermektedir.
+844: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+845: 3
+846: 2
+847: 2
+848: 3
+849: 1
+850: 2
+851: 3
+852: 2
+853: 2
+854: Özür dilerim, ancak verdiğiniz metin depresyon şiddet seviyeleri ile ilişkili değil. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin, size yardımcı olmaktan mutluluk duyarım.
+855: Bu metin 1 (Hafif) depresyon şiddet seviyesine sahiptir.
+856: 2
+857: Bu metin, 3. seviye olan "Şiddetli" depresyon seviyesine denk gelmektedir.
+858: 2
+859: 2
+860: 3
+861: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+862: 3
+863: 2
+864: 2
+865: 2
+866: 2
+867: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahiptir.
+868: 2
+869: 2
+870: 2
+871: 2
+872: 3
+873: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+874: 2
+875: 2
+876: 1
+877: 3
+878: 2
+879: 2
+880: Metni inceledim ve depresyon şiddet seviyesini belirledim. Metinde depresyon şiddet seviyesi 0 olarak belirlenmiştir.
+881: 2
+882: 2
+883: 2
+884: 3
+885: 2
+886: 2
+887: 3
+888: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+889: 2
+890: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+891: 2
+892: 2
+893: 3
+894: 2
+895: 2
+896: Bu metin 2 seviyesinde depresyonu temsil ediyor.
+897: 2
+898: 3
+899: 2
+900: 2
+901: 2
+902: 2
+903: 2
+904: 2
+905: 2
+906: 2
+907: 2
+908: Bu metin hafif depresyon seviyesine denk gelmektedir. Bu nedenle çıktı olarak "1" verilebilir.
+909: 2
+910: 2
+911: 1
+912: 2
+913: 3
+914: 3
+915: 2
+916: Bu metin 1 numaralı depresyon şiddet seviyesine (Hafif) denk gelmektedir.
+917: 2
+918: 2
+919: 3
+920: 2
+921: 2
+922: 2
+923: 2
+924: Bu metin 1 şiddet seviyesinde depresyon belirtileri içeriyor.
+925: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+926: 3
+927: 3
+928: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+929: 2
+930: 2
+931: 3
+932: Bu metin 3 şiddet seviyesine denk gelmektedir.
+933: 2
+934: 1
+935: 3
+936: Bu metin 2 seviyesinde depresyon şiddeti içerebilir.
+937: 2
+938: 2
+939: 3
+940: 2
+941: 2
+942: 3
+943: Bu metni okuyarak ulaştığım sonuca göre, bu kişinin depresyon şiddet seviyesi 2 (Orta) olabilir.
+944: 3
+945: 1
+946: 3
+947: 2
+948: 3
+949: Bu metin 3 şiddet seviyesine denk gelmektedir.
+950: 2
+951: 2
+952: 3
+953: 2
+954: 2
+955: 3
+956: 2
+957: 2
+958: 2
+959: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+960: 2
+961: 2
+962: 2
+963: 3
+964: 2
+965: 2
+966: 2
+967: 2
+968: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+969: 2
+970: 3
+971: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+972: 3
+973: 2
+974: 2, 2, 1
+975: 2
+976: 2
+977: 2
+978: 2
+979: 3
+980: 2
+981: 2
+982: 2
+983: 2
+984: Metin, 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+985: 2
+986: 2
+987: 2
+988: 1
+989: 3
+990: Özür dilerim, metni anlamlandıramadım. Lütfen metni daha açık ve anlaşılır bir şekilde tekrar yazabilir misiniz?
+991: 2
+992: Bu metin 2 şiddet seviyesine denk gelmektedir.
+993: 2
+994: 2
+995: 2
+996: 2
+997: 2
+998: 2
+999: 2
+1000: 2
+1001: 3
+1002: 3
+1003: 2
+1004: 3
+1005: 3
+1006: 2
+1007: 2
+1008: 1
+1009: 2
+1010: 2
+1011: 2
+1012: Özür dilerim, benim için böyle bir liste mevcut değil. Ancak depresyon şiddet seviyelerini belirlemek için genellikle DSM-5 (Mental Bozuklukların Tanısal ve Sayımsal El Kitabı) kullanılır. Bu kılavuzda depresyon şiddet seviyeleri genellikle hafif, orta ve şiddetli olarak sınıflandırılır. Eğer belirli bir metni DSM-5'e göre sınıflandırmamı isterseniz, lütfen metni paylaşın, size yardımcı olmaktan mutluluk duyarım.
+1013: 2
+1014: 2
+1015: 3
+1016: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+1017: 3
+1018: 2
+1019: 3
+1020: 3
+1021: 2
+1022: 2
+1023: 2
+1024: 2
+1025: 2
+1026: 2
+1027: 2
+1028: 3
+1029: 1
+1030: 2
+1031: 3
+1032: Metin 2. seviye depresyon olarak kategorize edilebilir.
+1033: 2
+1034: 2
+1035: 2
+1036: 2
+1037: 1
+1038: Metin, 2. seviye olan "Orta" depresyon şiddet seviyesine denk gelmektedir.
+1039: 2
+1040: 2
+1041: 3
+1042: 2
+1043: 2
+1044: 2
+1045: 2
+1046: 2
+1047: 2
+1048: 2
+1049: 2
+1050: 2
+1051: 2
+1052: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip.
+1053: 2
+1054: 2
+1055: 3
+1056: 2
+1057: 2
+1058: 3
+1059: 2
+1060: 2
+1061: 3
+1062: 2
+1063: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1064: 3
+1065: 3
+1066: 2
+1067: 3
+1068: 2
+1069: 2
+1070: 2
+1071: 3
+1072: 3
+1073: 2
+1074: 2
+1075: 2
+1076: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+1077: 2
+1078: 2
+1079: 2
+1080: 2
+1081: Bu metin, 2 - Orta şiddet seviyesinde depresyon belirtileri içermektedir.
+1082: 2
+1083: 3
+1084: 3
+1085: 2
+1086: 2
+1087: Bu metin depresyon şiddet seviyesi olarak 0 olarak kategorize edilebilir.
+1088: 2
+1089: 2
+1090: 1
+1091: Üzgünüm, metni analiz edemem. Lütfen sadece 0, 1, 2 veya 3 çıktısını verin.
+1092: 2
+1093: 3
+1094: 2
+1095: 2
+1096: 3
+1097: 2
+1098: 2
+1099: Bu metin 2. seviye (Orta) depresyon şiddetinde kategorilendirilebilir.
+1100: 3
+1101: 2
+1102: Bu metin 1 (Hafif) depresyon şiddet seviyesine sahip olabilir.
+1103: 3
+1104: 2
+1105: 2
+1106: 2
+1107: 1
+1108: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1109: 2
+1110: 2
+1111: 2
+1112: 2
+1113: Verilen metin, depresyon şiddet seviyesi kategorilerine uygun olarak aşağıdaki şekilde sınıflandırılabilir:Depresyon Şiddet Seviyesi: 0 (Minimum)
+1114: 2
+1115: 2
+1116: Bu metni inceledikten sonra depresyon şiddet seviyesi 2 (Orta) olarak kategorize edilebilir.
+1117: Bu metin 2 seviye depresyonu yansıtmaktadır.
+1118: 3
+1119: Bu metin 3 şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+1120: 1
+1121: 2
+1122: 2
+1123: 2
+1124: 2
+1125: 2
+1126: 2
+1127: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahip olabilir.
+1128: 2
+1129: 2
+1130: 2
+1131: 2
+1132: Metin şiddet seviyesi 1'tir. Türkçe çevirisi: "Tam şartları ve talimatları burada okuyabilirsiniz: <url> Bu mini hibeler sadece bilim insanlarına veya politika uzmanlarına verilmek amacıyla değil: sanatçılar, topluluk organizatörleri ve adını siz koyun gibi insanlardan başvurular almak istiyoruz. Ödüller başvurular geldikçe incelenecek; Mart ayını beklemeye gerek yok (eğer bu bir endişe ise).."
+1133: 2
+1134: 2
+1135: 2
+1136: 2
+1137: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1138: 2
+1139: 2
+1140: 3
+1141: Bu metin 2. seviye (Orta) depresyon belirtileri içermektedir.
+1142: 2
+1143: 2
+1144: 3
+1145: 3
+1146: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+1147: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1148: 2
+1149: 2
+1150: 2
+1151: 2
+1152: 2
+1153: 3
+1154: 2
+1155: 2
+1156: 3
+1157: 2
+1158: 2
+1159: 3
+1160: 2
+1161: 2
+1162: 2
+1163: 2
+1164: 3
+1165: 2
+1166: 3
+1167: 2
+1168: 2
+1169: 2
+1170: 2
+1171: 2
+1172: 3
+1173: 2
+1174: 2
+1175: 3
+1176: 3
+1177: 2
+1178: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+1179: 2
+1180: 3
+1181: 2
+1182: Bu metin 2 şiddet seviyesinde depresyon belirtileri içeriyor.
+1183: 2
+1184: Metni inceledim ve içeriğe göre depresyon şiddet seviyesini belirleyeceğim. Ancak metinde depresyon belirtilerine dair herhangi bir ipucu bulunmamaktadır. Bu nedenle depresyon şiddet seviyesi belirlemek için yetersiz bilgiye sahibim. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin.
+1185: 2
+1186: 2
+1187: 2
+1188: 2
+1189: 2
+1190: 2
+1191: 2
+1192: 2
+1193: 2
+1194: 3
+1195: Üzgünüm, ancak duygusal sağlık konularında doğru bir değerlendirme yapabilmem için daha fazla bilgiye ihtiyacım var. Eğer rahatsız hissediyorsanız, bir sağlık profesyoneline danışmanızı öneririm. Sağlık uzmanları size en iyi yardımı sağlayabilir. Eğer başka bir konuda yardımcı olmamı isterseniz, lütfen belirtin.
+1196: 2
+1197: 2
+1198: 2
+1199: 2
+1200: 2
+1201: 3
+1202: 3
+1203: 2
+1204: Bu metni 4 depresyon şiddet seviyesinden biriyle kategorize etmek zor çünkü depresyon ve stres farklı durumlar. Ancak, verdiğiniz metindeki belirtiler depresyonun hafif seviyesine işaret edebilir. Bu nedenle, bu durumu 1 (Hafif) olarak kategorize edebiliriz.
+1205: 2
+1206: 2
+1207: 3
+1208: 2
+1209: Metin, 2. seviye olan "Orta" depresyon şiddet seviyesine denk gelmektedir.
+1210: 2
+1211: 3
+1212: 3
+1213: 3
+1214: Bu metin 2 seviyesinde depresyon şiddeti içermektedir.
+1215: 2
+1216: Bu durum şiddetli bir depresyon belirtisi olabilir.
+1217: 2
+1218: 3
+1219: 2
+1220: 2
+1221: 3
+1222: 2
+1223: Bu metin 2 seviyesinde (Orta) depresyon şiddet seviyesine sahip.
+1224: 2
+1225: 2
+1226: 2
+1227: Bu metin 2 seviyesinde depresyonu ifade etmektedir.
+1228: 2
+1229: 2
+1230: 2
+1231: 2
+1232: 2
+1233: 2
+1234: 2
+1235: 2
+1236: 2
+1237: 3
+1238: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1239: 3
+1240: 2
+1241: 2
+1242: 2
+1243: 2
+1244: 2
+1245: 2
+1246: 2
+1247: 2
+1248: 2
+1249: 2
+1250: 2
+1251: 2
+1252: 2
+1253: 2
+1254: 3
+1255: 2
+1256: 2
+1257: 1
+1258: 3
+1259: 2
+1260: 2
+1261: 2
+1262: 2
+1263: 1
+1264: 2
+1265: 2
+1266: 2
+1267: 2
+1268: 3
+1269: 2
+1270: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+1271: 3
+1272: Metin 2 şiddet seviyesine denk gelmektedir.
+1273: 2
+1274: 2
+1275: 2
+1276: 2
+1277: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+1278: 2
+1279: 2
+1280: 2
+1281: 2
+1282: 2
+1283: Bu metin depresyon şiddet seviyeleriyle ilişkili değil, bu nedenle bir kategorizasyon yapılamaz. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin.
+1284: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+1285: 2
+1286: 2
+1287: 2
+1288: 2
+1289: 2
+1290: Bu metin 2. seviye (Orta) depresyon şiddetinde olabilir.
+1291: 2
+1292: 2
+1293: 3
+1294: 2
+1295: 2
+1296: 2
+1297: 2
+1298: 2
+1299: 2
+1300: 2
+1301: 2
+1302: 2
+1303: 2
+1304: 2
+1305: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1306: 3
+1307: 3
+1308: 3
+1309: 2
+1310: 2
+1311: 3
+1312: 2
+1313: 2
+1314: 2
+1315: 3
+1316: 1
+1317: 2
+1318: 2
+1319: 3
+1320: 2
+1321: 2
+1322: 3
+1323: Bu metin 2 seviyesinde depresyon belirtisi gösteriyor.
+1324: 2
+1325: 2
+1326: Bu metin 2 seviye depresyonu temsil ediyor.
+1327: 2
+1328: Verilen metin incelendiğinde, depresyon şiddet seviyesi 0 (Minimum) olarak kategorize edilebilir.
+1329: 2
+1330: 2
+1331: 2
+1332: 3
+1333: 3
+1334: 2
+1335: 2
+1336: 2
+1337: 2
+1338: 2
+1339: 2
+1340: 2
+1341: 3
+1342: 2
+1343: 2
+1344: 2
+1345: 2
+1346: 2
+1347: 2
+1348: 2
+1349: 2
+1350: 2
+1351: 2
+1352: 1
+1353: 2
+1354: 2
+1355: 2
+1356: 2
+1357: 2
+1358: 2
+1359: 3
+1360: 2
+1361: 3
+1362: 2
+1363: 2
+1364: 2
+1365: 2
+1366: 2
+1367: 3
+1368: 2
+1369: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+1370: 3
+1371: 3
+1372: Bu metin 2 seviyesinde depresyon şiddeti göstergesi olarak kategorize edilebilir.
+1373: 2
+1374: 3
+1375: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip olabilir.
+1376: 2
+1377: 2
+1378: 2
+1379: 3
+1380: 2
+1381: Metin, 2 (Orta) depresyon şiddet seviyesine sahip.
+1382: 3
+1383: 2
+1384: 2
+1385: 2
+1386: 2
+1387: 3
+1388: 0, 1, 1, 2, 3
+1389: 2
+1390: 2
+1391: Bu metin 2 seviyesinde (Orta) depresyon şiddet seviyesine sahip olabilir.
+1392: 2
+1393: 2
+1394: 2
+1395: 3
+1396: 2
+1397: 2
+1398: 2
+1399: 2
+1400: Bu metin 2 seviyesinde depresyon şiddeti içerebilir.
+1401: 3
+1402: 2
+1403: 2
+1404: 2
+1405: 2
+1406: 2
+1407: 2
+1408: 2
+1409: 2
+1410: 2
+1411: 2
+1412: 2
+1413: 2
+1414: 2
+1415: Metin, 3. şiddet seviyesinde depresyon belirtileri içermektedir. Metni Türkçe'ye çevirirken yardımcı olabilirim.
+1416: 3
+1417: 2
+1418: 1
+1419: 2
+1420: 3
+1421: 2
+1422: 2
+1423: 3
+1424: Bu metin 2. seviye (Orta) depresyon belirtileri göstermektedir.
+1425: 1
+1426: 2
+1427: 2
+1428: 2
+1429: 2
+1430: 3
+1431: 2
+1432: Metin, 2 seviyesinde depresyon belirtileri içermektedir.
+1433: 3
+1434: 2
+1435: 2
+1436: 2
+1437: 2
+1438: 2
+1439: 3
+1440: 2
+1441: 3
+1442: 3
+1443: 3
+1444: 2
+1445: 2
+1446: 2
+1447: 2
+1448: 1
+1449: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+1450: 2
+1451: 2
+1452: 2
+1453: 1
+1454: 2
+1455: Banka hesap özeti: 2 (Orta)Pizza: 0 (Minimum)
+1456: 2
+1457: 2
+1458: Bu metin 2. şiddet seviyesinde depresyon belirtileri içermektedir.
+1459: 2
+1460: 3
+1461: 2
+1462: 2
+1463: 2
+1464: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+1465: 2
+1466: 3
+1467: 2
+1468: 2
+1469: 3
+1470: 2
+1471: 3
+1472: 2
+1473: Bu metin 3 şiddet seviyesine denk gelmektedir.
+1474: 2
+1475: 2
+1476: 3
+1477: 2
+1478: 2
+1479: 2
+1480: Bu metin 2 (Orta) şiddet seviyesinde depresyon belirtileri içermektedir.
+1481: 2
+1482: Bu durumu 2 (Orta) şiddet seviyesinde bir depresyon olarak kategorize edebiliriz.
+1483: 2
+1484: 3
+1485: 3
+1486: 2
+1487: 3
+1488: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahip.
+1489: 2
+1490: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+1491: Özür dilerim, ancak verdiğiniz metin depresyon şiddet seviyeleriyle ilişkilendirilebilecek bir içerik taşımıyor. Eğer başka bir metin veya konuda yardıma ihtiyacınız varsa lütfen belirtin, size yardımcı olmaktan mutluluk duyarım.
+1492: 2
+1493: Bu metin 2 seviye depresyonu yansıtıyor.
+1494: Bu metin 2. seviye depresyonu yansıtmaktadır.
+1495: 2
+1496: 2
+1497: 1
+1498: 2
+1499: 1
+1500: 2
+1501: 2
+1502: 2
+1503: 2
+1504: 2
+1505: 2
+1506: 3
+1507: 3
+1508: 2
+1509: 2
+1510: 2
+1511: Metin, 2. seviye yani "Orta" depresyon şiddet seviyesine sahip.
+1512: 2
+1513: 3
+1514: 2
+1515: 2
+1516: 3
+1517: 2
+1518: Bu metni değerlendirerek depresyon şiddet seviyesini belirlemek zor olabilir çünkü metinde depresyon belirtilerine doğrudan atıfta bulunulmamıştır. Ancak, genel olarak duygusal terk edilme, özgüven eksikliği, kötü alışkanlıklar ve olumsuz yaşam deneyimleri gibi faktörler depresyon belirtileriyle ilişkilendirilebilir. Bu nedenle, verilen bilgilere dayanarak bir tahmin yapmak zor olacaktır. Eğer kişi depresyon belirtileri yaşıyorsa, bir sağlık profesyoneline başvurması ve detaylı bir değerlendirme yapılması önemlidir.
+1519: 2
+1520: 2
+1521: 2
+1522: 2
+1523: 2
+1524: 2
+1525: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+1526: Bu metin 1. seviye (Hafif) depresyon belirtileri içermektedir.
+1527: 3
+1528: Verdiğiniz metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+1529: 2
+1530: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+1531: 2
+1532: 3
+1533: 2
+1534: 3
+1535: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+1536: 2
+1537: 2
+1538: 3
+1539: 3
+1540: 3
+1541: 3
+1542: 2
+1543: 2
+1544: 3
+1545: 3
+1546: 3
+1547: 3
+1548: 2
+1549: 2
+1550: 2
+1551: 2
+1552: 2
+1553: 3
+1554: 3
+1555: 2
+1556: 2
+1557: 2
+1558: 3
+1559: 2
+1560: 2
+1561: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahip gibi görünmektedir.
+1562: 3
+1563: 2
+1564: 2
+1565: 2
+1566: 3
+1567: Üzgünüm, ancak duygusal sağlık konularıyla ilgili ciddi konuları ele almak için uygun bir yapay zeka asistanı değilim. Eğer bir destek ihtiyacınız varsa, lütfen bir sağlık profesyoneline başvurun veya acil durumlar için hemen yardım alın. Sağlığınız önemlidir.
+1568: 2
+1569: 2
+1570: 2
+1571: 2
+1572: 2
+1573: Bu metin 2. seviye depresyonu yansıtmaktadır.
+1574: 2
+1575: 2
+1576: 3
+1577: 2
+1578: 2
+1579: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1580: 3
+1581: 3
+1582: 3
+1583: 2
+1584: 3
+1585: 2
+1586: 2
+1587: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1588: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+1589: 3
+1590: Bu metin 3 şiddet seviyesine denk gelmektedir.
+1591: 3
+1592: Üzgünüm, ancak sizin belirttiğiniz metinde depresyon şiddet seviyelerine dair bir kategorizasyon yapamam. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin.
+1593: 2
+1594: 2
+1595: 2
+1596: 2
+1597: 2
+1598: Bu metin 2 seviyesinde depresyon içerebilir.
+1599: 3
+1600: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+1601: 2
+1602: 3
+1603: Bu metin 2 seviyesinde depresyon şiddeti içermektedir.
+1604: 3
+1605: 3
+1606: 2
+1607: 3
+1608: 2
+1609: 2
+1610: 3
+1611: 2
+1612: 2
+1613: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1614: 2
+1615: 2
+1616: 2
+1617: 2
+1618: 2
+1619: 3
+1620: 3
+1621: 3
+1622: 3
+1623: 2
+1624: 1
+1625: 2
+1626: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1627: 2
+1628: Bu metin 3 numaralı şiddet seviyesine denk gelmektedir.
+1629: 2
+1630: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip gibi görünmektedir.
+1631: Bu metin 3. seviye yani "Şiddetli" depresyon belirtileri içermektedir.
+1632: 2
+1633: 2
+1634: 3
+1635: 2
+1636: 2
+1637: 3
+1638: 2
+1639: Bu metin 2. seviye depresyonu yansıtıyor.
+1640: 2
+1641: 2
+1642: 2
+1643: Bu metin 2 seviyesinde (Orta) depresyon şiddet seviyesine sahip gibi görünüyor.
+1644: 2
+1645: Bu metin 3 şiddet seviyesine denk gelmektedir.
+1646: Bu metindeki belirtiler 2. seviye (Orta) depresyon şiddet seviyesine işaret etmektedir.
+1647: 2
+1648: 2
+1649: 2
+1650: 2
+1651: 2
+1652: 2
+1653: 3
+1654: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+1655: 2
+1656: 2
+1657: 2
+1658: 2
+1659: 2
+1660: 2
+1661: Bu metin 0 şiddet seviyesine sahiptir.
+1662: 2
+1663: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1664: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+1665: 2
+1666: 2
+1667: 2
+1668: 2
+1669: 3
+1670: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+1671: 2
+1672: 2
+1673: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+1674: 3
+1675: 2
+1676: 3
+1677: Bu metin 2 seviyesinde depresyon şiddeti kategorisine denk gelmektedir.
+1678: 2
+1679: 2
+1680: 2
+1681: 2
+1682: 2
+1683: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+1684: 3
+1685: 3
+1686: 3
+1687: Metin, 2. seviye yani "Orta" depresyon şiddet seviyesine denk gelmektedir.
+1688: 3
+1689: 2
+1690: 2
+1691: 1
+1692: 2
+1693: 2
+1694: 2
+1695: 2
+1696: 2
+1697: 3
+1698: 3
+1699: 2
+1700: Bu durumu 2. seviye yani "Orta" depresyon şiddet seviyesine kategorize edebiliriz.
+1701: 2
+1702: 2
+1703: 2
+1704: 2
+1705: 3
+1706: 2
+1707: 3
+1708: 2
+1709: 2
+1710: 2
+1711: 2
+1712: 2
+1713: 1
+1714: 2
+1715: 3
+1716: 2
+1717: 2
+1718: 2
+1719: 2
+1720: 3
+1721: 2
+1722: 2
+1723: 2
+1724: 3
+1725: 2
+1726: 3
+1727: 2
+1728: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+1729: 2
+1730: 3
+1731: Bu metin 3. seviye olan "Şiddetli" depresyonu yansıtmaktadır.
+1732: 2
+1733: 2
+1734: 2
+1735: 2
+1736: 3
+1737: 2
+1738: 2
+1739: 2
+1740: Özür dilerim, metni kategorize etmek için gerekli olan "ANKET" bağlantısına erişimim yok. Lütfen metni doğrudan bana ileterek yardımcı olmamı isteyebilirsiniz. Ancak, size yardımcı olmak için buradayım ve başka bir konuda yardımcı olabilirsem lütfen bana bildirin.
+1741: 2
+1742: 2
+1743: 2
+1744: 2
+1745: 2
+1746: 2
+1747: 2
+1748: 2
+1749: 2
+1750: 2
+1751: 2
+1752: 2
+1753: 2
+1754: 2
+1755: 2
+1756: 3
+1757: 2
+1758: 2
+1759: 2
+1760: 2
+1761: 1
+1762: 2
+1763: 3
+1764: Bu metindeki belirtiler göz önüne alındığında, depresyon şiddet seviyesi 2 (Orta) olarak kategorize edilebilir.
+1765: 2
+1766: 3
+1767: 2
+1768: 3
+1769: 3
+1770: 3
+1771: 2
+1772: 2
+1773: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+1774: 2
+1775: 2
+1776: 2
+1777: 2
+1778: Bu metin 1. seviye (Hafif) depresyon belirtileri içermektedir.
+1779: 2
+1780: Bu metindeki durumlar şiddet seviyelerine göre şu şekilde kategorize edilebilir:1. Babanın sınırları aşan davranışı: 1 (Hafif)2. Babanın futbol oynamak isteyen çocuğa cinsiyetçi yaklaşımı: 1 (Hafif)3. Annenin kıyafet seçimine müdahalesi: 1 (Hafif)4. Annenin çıplak olarak odasına girmesi: 2 (Orta)
+1781: 2
+1782: 2
+1783: 2
+1784: 3
+1785: 2
+1786: 2
+1787: 2
+1788: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1789: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+1790: 2
+1791: 1
+1792: 2
+1793: 2
+1794: 2
+1795: 2
+1796: 2
+1797: 2
+1798: 2
+1799: 1
+1800: Bu metin 3 şiddet seviyesine denk gelmektedir.
+1801: 2
+1802: 3
+1803: 2
+1804: 2
+1805: 2
+1806: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+1807: 2
+1808: 2
+1809: 2
+1810: 2
+1811: 2
+1812: 2
+1813: 3
+1814: 2
+1815: 2
+1816: 2
+1817: 2
+1818: 3
+1819: Bu metin 2 numaralı depresyon şiddet seviyesine denk gelmektedir.
+1820: 3
+1821: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+1822: 2
+1823: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1824: 2
+1825: 2
+1826: 2
+1827: 2
+1828: 2
+1829: 2
+1830: 3
+1831: 1
+1832: 2
+1833: 2
+1834: 3
+1835: 2
+1836: 2
+1837: 3
+1838: 2
+1839: 2
+1840: 3
+1841: 3
+1842: 2
+1843: Bu metin depresyon şiddet seviyesi 1'e (Hafif) denk gelmektedir.
+1844: 2
+1845: 2
+1846: 2
+1847: 2
+1848: Bu metin 2 seviyede depresyonu temsil ediyor.
+1849: 2
+1850: 3
+1851: 2
+1852: 1
+1853: Bu metni değerlendirirken 2. seviye olan "Orta" depresyon şiddet seviyesine uygun olduğunu düşünüyorum.
+1854: 2
+1855: 2
+1856: 3
+1857: 2
+1858: 2
+1859: 2
+1860: 2
+1861: 2
+1862: Bu metindeki belirtilere göre depresyon şiddet seviyesi 1'dir (Hafif).
+1863: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+1864: 3
+1865: 2
+1866: 2
+1867: 3
+1868: 3
+1869: 2
+1870: 2
+1871: 2
+1872: 3
+1873: 3
+1874: 3
+1875: 2
+1876: 2
+1877: 2
+1878: Bu metin 3. şiddet seviyesinde depresyon belirtileri içeriyor.
+1879: Bu metin 2 seviyesinde depresyon şiddeti kategorisine denk gelmektedir.
+1880: 2
+1881: 3
+1882: 3
+1883: 3
+1884: Bu metin 2. seviye depresyon şiddetinde yer almaktadır.
+1885: 2
+1886: 3
+1887: 2
+1888: Özür dilerim, metni analiz edemem. Ancak size yardımcı olabileceğim başka bir konu var mı?
+1889: 2
+1890: Bu metin 3 şiddet seviyesinde depresyon belirtileri içermektedir.
+1891: Bu metin 2 seviye depresyonu yansıtmaktadır.
+1892: 3
+1893: Bu metindeki depresyon şiddet seviyesi 2 (Orta) olarak kategorize edilebilir.
+1894: 2
+1895: 3
+1896: 2
+1897: 2
+1898: 3
+1899: 3
+1900: 3
+1901: 2
+1902: 2
+1903: 2
+1904: 3
+1905: 2
+1906: 3
+1907: 2
+1908: 2
+1909: 2
+1910: 3
+1911: 2
+1912: 2
+1913: 2
+1914: 3
+1915: 3
+1916: Bu metin 3 şiddet seviyesindeki depresyonu yansıtmaktadır.
+1917: 2
+1918: 2
+1919: 2
+1920: 3
+1921: 2
+1922: 2
+1923: 2
+1924: 2
+1925: 3
+1926: 2
+1927: 2
+1928: 2
+1929: 2
+1930: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+1931: 2
+1932: 3
+1933: Bu metin 2. seviye yani "Orta" şiddetinde depresyon belirtileri içermektedir.
+1934: 2
+1935: 2
+1936: 2
+1937: 3
+1938: 2
+1939: 1
+1940: 3
+1941: 2
+1942: 2
+1943: 2
+1944: 2
+1945: Bu metin 2. seviye (Orta) depresyon şiddetinde kategorilendirilebilir.
+1946: 2
+1947: 2
+1948: 2
+1949: 2
+1950: 2
+1951: 2
+1952: 3
+1953: 3
+1954: 2
+1955: 2
+1956: 2
+1957: 2
+1958: 2
+1959: 2
+1960: 2
+1961: 2
+1962: 2
+1963: 2
+1964: 2
+1965: 3
+1966: 2
+1967: 2
+1968: 2
+1969: 2
+1970: 2
+1971: Bu metin 3 şiddet seviyesine sahip.
+1972: 3
+1973: 2
+1974: 1
+1975: 2
+1976: 3
+1977: 2
+1978: 3
+1979: 2
+1980: 2
+1981: 3
+1982: 2
+1983: 2
+1984: 2
+1985: 3
+1986: 2
+1987: 2
+1988: 3
+1989: 2
+1990: 2
+1991: 2
+1992: 3
+1993: 2
+1994: 2
+1995: 2
+1996: 2
+1997: 2
+1998: 2
+1999: 2
+2000: 2
+2001: Bu metin 2 seviyesinde depresyon şiddeti içeriyor.
+2002: 3
+2003: 2
+2004: 3
+2005: 2
+2006: 2
+2007: 2
+2008: 3
+2009: 2
+2010: 3
+2011: 2
+2012: 2
+2013: 3
+2014: 2
+2015: 2
+2016: 2
+2017: 2
+2018: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+2019: 2
+2020: 3
+2021: 2
+2022: 2
+2023: 2
+2024: 2
+2025: 2
+2026: 3
+2027: 3
+2028: 2
+2029: 2
+2030: 2
+2031: 2
+2032: 2
+2033: Bu metin 1 numaralı hafif depresyon şiddet seviyesine denk gelmektedir.
+2034: 2
+2035: 3
+2036: 2
+2037: 2
+2038: 2
+2039: 2
+2040: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahiptir.
+2041: 2
+2042: 2
+2043: 2
+2044: 1
+2045: 2
+2046: 3
+2047: Bu metin 2 (Orta) şiddet seviyesinde depresyon belirtileri içermektedir.
+2048: 3
+2049: 3
+2050: 2
+2051: 2
+2052: 2
+2053: 2
+2054: 2
+2055: 3
+2056: Bu metin 2 şiddetinde depresyon belirtileri içeriyor.
+2057: 2
+2058: 2
+2059: 2
+2060: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+2061: 2
+2062: 3
+2063: 2
+2064: 2
+2065: 3
+2066: 2
+2067: 2
+2068: 3
+2069: 2
+2070: Metni inceledikten sonra verdiğiniz metin 2 şiddet seviyesine denk gelmektedir.Gerçek evsizleri ve "sahte" evsizleri ayırt etmek için en iyi yöntem, yerel yardım kuruluşlarına bağış yapmak veya gönüllü olarak destek olmaktır. Bu kuruluşlar genellikle evsizlerle doğrudan çalışır ve gerçek ihtiyaç sahiplerine yardım eder. Ayrıca, evsizlerle doğrudan iletişim kurarak onların hikayelerini dinlemek ve ihtiyaçlarını anlamak da faydalı olabilir. Umarım bu tavsiyeler işinize yarar. Eğer başka bir sorunuz varsa yardımcı olmaktan mutluluk duyarım. Geçmiş olsun.
+2071: 2
+2072: 2
+2073: 2
+2074: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+2075: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2076: 3
+2077: 3
+2078: 2
+2079: 2
+2080: 2
+2081: 3
+2082: Bu metindeki depresyon şiddet seviyesi kategorisi 0 olarak değerlendirilebilir.
+2083: 2
+2084: 2
+2085: 2
+2086: 2
+2087: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+2088: 3
+2089: 3
+2090: 2
+2091: 3
+2092: 2
+2093: 2
+2094: 2
+2095: Bu metin hafif depresyon seviyesine denk gelmektedir.
+2096: 3
+2097: Bu metin 3 şiddet seviyesinde depresyon belirtileri içermektedir.
+2098: 3
+2099: 2
+2100: 2
+2101: 2
+2102: 2
+2103: 2
+2104: Bu metin 1 (Hafif) depresyon şiddet seviyesine işaret etmektedir.
+2105: 2
+2106: 2
+2107: 3
+2108: 2
+2109: 2
+2110: 3
+2111: 2
+2112: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+2113: 2
+2114: 2
+2115: 2
+2116: 1
+2117: 2
+2118: 3
+2119: 3
+2120: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine sahip.
+2121: Bu metin 2. seviye depresyonu yansıtmaktadır.
+2122: 3
+2123: 2
+2124: 2
+2125: 2
+2126: 2
+2127: 3
+2128: 3
+2129: 2
+2130: 2
+2131: 2
+2132: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2133: 1
+2134: 2
+2135: 1
+2136: 1
+2137: 3
+2138: Bu metin 2 seviyesinde depresyonu yansıtmaktadır.
+2139: Bu metni değerlendirmek için size bazı sorular sormam gerekiyor. Bu metindeki ifadeler sizi nasıl hissettiriyor? Bu duyguları deneyimlemenizin sebebi nedir? Bu metindeki ifadelerle ilgili düşünceleriniz nelerdir? Bu metindeki duygusal yükü nasıl değerlendiriyorsunuz?
+2140: 2
+2141: 2
+2142: 3
+2143: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+2144: 3
+2145: 2
+2146: Bu metni değerlendirirken, kişinin geçmişteki başarıları ve gelecek planlarına odaklanarak depresyon şiddet seviyesini belirlemek zor olabilir. Ancak verilen metinde olumsuz bir ifade veya duygu belirtisi bulunmadığı için depresyon şiddet seviyesi 0 (Minimum) olarak değerlendirilebilir.
+2147: 2
+2148: 2
+2149: 2
+2150: 2
+2151: 3
+2152: 2
+2153: 2
+2154: 2
+2155: 2
+2156: 2
+2157: 3
+2158: 2
+2159: 3
+2160: Bu metin 1 (Hafif) depresyon şiddet seviyesine işaret etmektedir.
+2161: 2
+2162: 2
+2163: 3
+2164: 2
+2165: 2
+2166: 2
+2167: 2
+2168: 2
+2169: 3
+2170: 2
+2171: 2
+2172: 3
+2173: 2
+2174: 3
+2175: 3
+2176: 1
+2177: 3
+2178: 2
+2179: 3
+2180: 2
+2181: 2
+2182: 2
+2183: 2
+2184: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2185: 2
+2186: 2
+2187: 2
+2188: 1
+2189: 2
+2190: Üzgünüm, ancak size yardımcı olamam.
+2191: 3
+2192: 3
+2193: 2
+2194: 2
+2195: 2
+2196: 2
+2197: 1
+2198: 2
+2199: Bu metin 2. seviye depresyonu yansıtıyor.
+2200: 2
+2201: 2
+2202: 2
+2203: 2
+2204: 3
+2205: 2
+2206: 2
+2207: 2
+2208: 2
+2209: Üzgünüm, metni kategorize edemem çünkü metinde belirtilen "ANKET" bağlantısına erişimim yok. Eğer metinde belirtilen seçeneklerden birine göre bir kategorizasyon yapmamı istiyorsanız, lütfen metni doğrudan paylaşın. Size nasıl yardımcı olabilirim?
+2210: 2
+2211: 3
+2212: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+2213: 2
+2214: 3
+2215: 2
+2216: 2
+2217: 2
+2218: 3
+2219: 2
+2220: 3
+2221: 2
+2222: 2
+2223: 2
+2224: 2
+2225: 2
+2226: 2
+2227: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2228: Bu metin 2 (Orta) şiddet seviyesinde depresyon belirtileri içermektedir.
+2229: 2
+2230: 2
+2231: 3
+2232: 3
+2233: 2
+2234: 2
+2235: 2
+2236: Bu metin 3 şiddet seviyesine (Şiddetli) denk gelmektedir.
+2237: 2
+2238: 2
+2239: 2
+2240: 2
+2241: 2
+2242: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2243: 3
+2244: 3
+2245: 1
+2246: 2
+2247: 3
+2248: 2
+2249: 2
+2250: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2251: 3
+2252: 3
+2253: 2
+2254: Bu metin 3. seviye şiddetli depresyon belirtileri içermektedir.
+2255: 1
+2256: 3
+2257: 2
+2258: 2
+2259: 2
+2260: 2
+2261: 3
+2262: 2
+2263: 2
+2264: Bu metin 2. seviye (Orta) depresyon belirtileri içermektedir.
+2265: 2
+2266: 3
+2267: 2
+2268: 3
+2269: 3
+2270: 2
+2271: 2
+2272: 2
+2273: 2
+2274: Bu metin 2 seviye depresyonu yansıtmaktadır.
+2275: 3
+2276: 3
+2277: 3
+2278: 2
+2279: 2
+2280: 2
+2281: 2
+2282: 1
+2283: 2
+2284: 2
+2285: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+2286: 2
+2287: 2
+2288: Bu metin 2. seviye olan "Orta" depresyon şiddet seviyesine denk gelmektedir.
+2289: 3
+2290: 2
+2291: 2
+2292: 2
+2293: 2
+2294: 2
+2295: 2
+2296: Bu metin 2. şiddet seviyesinde depresyon belirtileri içermektedir.
+2297: 2
+2298: 2
+2299: 2
+2300: 2
+2301: Metni analiz ettiğimde, depresyon şiddet seviyesini 1 olarak kategorize ediyorum.
+2302: 2
+2303: 2
+2304: Bu metni değerlendirerek depresyon şiddet seviyesini belirlemek doğru olmayabilir çünkü depresyon tanısı koymak için daha kapsamlı bir değerlendirme gereklidir. Ancak, metindeki ifadeleri dikkate alarak yaklaşık bir tahmin yapabiliriz. Verdiğiniz metindeki duygusal zorluklar ve yalnızlık hissi 1: Hafif depresyon şiddet seviyesine işaret edebilir.
+2305: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+2306: 2
+2307: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2308: 2
+2309: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2310: 1) 02) 03) 04) 05) 0
+2311: 2
+2312: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+2313: 2
+2314: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2315: 3
+2316: 2
+2317: 2
+2318: 2
+2319: 2
+2320: 2
+2321: 2
+2322: 1
+2323: 3
+2324: 3
+2325: 2
+2326: 3
+2327: 3
+2328: 3
+2329: 3
+2330: 3
+2331: 2
+2332: Metin, 2 seviyesinde (Orta) depresyon belirtileri içermektedir.
+2333: 3
+2334: 3
+2335: 2
+2336: Bu metin 1 (Hafif) depresyon şiddet seviyesine sahip.
+2337: 2
+2338: 3
+2339: 3
+2340: 3
+2341: 2
+2342: 2
+2343: 2
+2344: 3
+2345: Özür dilerim, ancak bu metin depresyon şiddet seviyeleriyle ilişkilendirilemez. Eğer depresyon belirtileri yaşıyorsanız, bir sağlık profesyoneline danışmanız önemlidir. Kendi başa çıkma stratejileri arasında araştırma yapmak, profesyonel destek almak, düzenli egzersiz yapmak, sağlıklı beslenmek, meditasyon ve nefes egzersizleri gibi yöntemler bulunmaktadır. Unutmayın ki herkes farklıdır ve depresyonla başa çıkma yöntemleri kişiden kişiye değişebilir. Uzman bir sağlık profesyoneli size en uygun olanı belirleyebilir.
+2346: 2
+2347: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip olabilir.
+2348: 3
+2349: 2
+2350: 2
+2351: 2
+2352: 2
+2353: 3
+2354: 2
+2355: 2
+2356: 2
+2357: 2
+2358: 2
+2359: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+2360: 2
+2361: 2
+2362: 2
+2363: 2
+2364: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2365: 2
+2366: 2
+2367: 2
+2368: 2
+2369: 3
+2370: 1
+2371: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2372: 2
+2373: 3
+2374: 2
+2375: 2
+2376: 3
+2377: 2
+2378: 2
+2379: 3
+2380: 2
+2381: 2
+2382: 2
+2383: 3
+2384: 2
+2385: 2
+2386: 2
+2387: 2
+2388: 2
+2389: 2
+2390: 2
+2391: 3
+2392: 2
+2393: Bu metin 2 seviye depresyonu yansıtıyor.
+2394: 2
+2395: 2
+2396: 2
+2397: 2
+2398: 2
+2399: 2
+2400: Bu metin 2 seviye depresyonu yansıtıyor.
+2401: 2
+2402: 2
+2403: 2
+2404: 1
+2405: 2
+2406: 3
+2407: 2
+2408: 2
+2409: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2410: 1
+2411: 3
+2412: 2
+2413: 2
+2414: 1
+2415: 2
+2416: 2
+2417: 2
+2418: 2
+2419: 3
+2420: 2
+2421: 2
+2422: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+2423: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2424: 3
+2425: 3
+2426: 3
+2427: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2428: 2
+2429: 2
+2430: 2
+2431: 2
+2432: 3
+2433: 2
+2434: Bu metin 2 seviyesinde depresyonu ifade ediyor.
+2435: 2
+2436: Metin: Kendinizi ilişkilendirebiliyor musunuz? Özet: İşte aptalca bir şey yaptım. Bir iş arkadaşım beni bunun için eleştirdi, ve haklı olarak. Özür diledim, kabul etti, ve şimdi her şey iyi. *Ama hala bunu düşünmeyi, üzerinde durmayı durduramıyorum...Çıktı: 1
+2437: 2
+2438: 3
+2439: 2
+2440: 3
+2441: 3
+2442: 2
+2443: Bu metin 3 şiddet seviyesindeki depresyonu yansıtmaktadır.
+2444: 2
+2445: 2
+2446: 1
+2447: 2
+2448: 2
+2449: 2
+2450: 2
+2451: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+2452: Metninizi değerlendirirken sadece saldırı sonrasındaki olayları değil, öncesinde olan tüm şeyleri de dikkate almanız önemlidir. Bu nedenle, metninizi 3 şiddet seviyesine (Şiddetli) kategorize etmenizi öneririm. Bu seviye, ilişkinizin tüm kötü geçmişini içermeye çalıştığınızı ve Hakim'e neyin layık olduğunu belirtirken duygusal olarak yoğun bir durumu ifade eder.
+2453: 3
+2454: 2
+2455: Üzgünüm, metni kategorize edemem veya bağlantıları ziyaret etmenize yardımcı olamam. Başka bir konuda size yardımcı olabilir miyim?
+2456: 3
+2457: 2
+2458: 3
+2459: 2
+2460: 3
+2461: 2
+2462: 3
+2463: 2
+2464: 3
+2465: 2
+2466: 2
+2467: 3
+2468: 3
+2469: 2
+2470: 2
+2471: 2
+2472: 3
+2473: 2
+2474: Bu metin 1. şiddet seviyesinde depresyon belirtileri içeriyor.
+2475: 3
+2476: 3
+2477: 2
+2478: 2
+2479: Metin, 1 seviyesindeki hafif depresyonu yansıtıyor.
+2480: 2
+2481: 2
+2482: 2
+2483: 3
+2484: 2
+2485: 2
+2486: 2
+2487: 2
+2488: 2
+2489: 2
+2490: 2
+2491: 2
+2492: 2
+2493: 1
+2494: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2495: 2
+2496: 3
+2497: 3
+2498: 3
+2499: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+2500: 3
+2501: 3
+2502: 2
+2503: 2
+2504: 2
+2505: 3
+2506: 2
+2507: 2
+2508: 3
+2509: 3
+2510: 2
+2511: 2
+2512: 2
+2513: 2
+2514: 2
+2515: 3
+2516: 2
+2517: 2
+2518: 2
+2519: 3
+2520: 2
+2521: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+2522: 2
+2523: 2
+2524: 1
+2525: 3
+2526: 3
+2527: 2
+2528: 3
+2529: 2
+2530: 2
+2531: 2
+2532: Bu metin 2. seviye (Orta) depresyon belirtileri içermektedir.
+2533: 3
+2534: 2
+2535: 3
+2536: 2
+2537: 2
+2538: 3
+2539: 2
+2540: 2
+2541: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2542: 2
+2543: 3
+2544: 2
+2545: 2
+2546: 3
+2547: 2
+2548: 2
+2549: 2
+2550: 3
+2551: Verilen metni inceledim ve 2 şiddet seviyesine denk gelen kategoride olduğunu belirledim.
+2552: 2
+2553: 2
+2554: 2
+2555: 2
+2556: 2
+2557: 2
+2558: 2
+2559: 2
+2560: 3
+2561: 3
+2562: 2
+2563: Özür dilerim, ancak size yardımcı olabilmem için metni görmem gerekiyor. Lütfen metni paylaşın, böylece doğru şekilde kategorize edebilirim.
+2564: 2
+2565: 2
+2566: 3
+2567: 3
+2568: Bu metin 3. şiddet seviyesindeki depresyonu yansıtmaktadır.
+2569: Bu metin hafif depresyon şiddet seviyesindedir (1). Metni Türkçe'ye çevirirken, okuyucu için daha yönetilebilir ve işe alım sürecinde daha etkili olabilmek için daha fazla detay ve özgeçmiş bilgileri ekleyerek yardımcı olabilirsiniz. Teşekkürler!
+2570: 2
+2571: 2
+2572: Bu metni değerlendirirken depresyon şiddet seviyeleri ile ilgili bir kategori belirlemem uygun değil. Eğer başka bir konuda yardımcı olmamı isterseniz, lütfen belirtin.
+2573: 2
+2574: 3
+2575: 2
+2576: 2
+2577: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2578: 2
+2579: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içeriyor.
+2580: 3
+2581: 2
+2582: 3
+2583: 2
+2584: 3
+2585: Bu metni değerlendirerek 4 depresyon şiddet seviyesinden birini belirlemem mümkün değil. Depresyon genellikle duygudurumla ilgili bir durumdur ve metinde belirtilenler daha çok fiziksel sağlık sorunlarına işaret etmektedir. Bu nedenle, bu metni depresyon şiddet seviyeleriyle ilişkilendirmek uygun olmayabilir. Eğer depresyon belirtileri hakkında endişeleriniz varsa, bir sağlık profesyoneline danışmanız önemlidir.
+2586: 2
+2587: Bu metin 1 (Hafif) depresyon şiddet seviyesine işaret etmektedir.
+2588: 2
+2589: 3
+2590: 2
+2591: 2
+2592: Bu metin depresyon şiddet seviyesi 0 olarak kategorize edilebilir.
+2593: 3
+2594: 2
+2595: 3
+2596: 2
+2597: 3
+2598: 2
+2599: 1
+2600: Özür dilerim, ancak duygusal destek veya terapi hizmeti sunamam. Eğer başka bir konuda yardıma ihtiyacınız varsa, sormaktan çekinmeyin.
+2601: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2602: 2
+2603: 2
+2604: 2
+2605: 2
+2606: 2
+2607: 2
+2608: 2
+2609: 2
+2610: 3
+2611: 2
+2612: 3
+2613: 3
+2614: 3
+2615: 2
+2616: 2
+2617: 2
+2618: 2
+2619: 2
+2620: 2
+2621: 2
+2622: 2
+2623: Bu metni 4 depresyon şiddet seviyesinden birine kategorize etmek zor olabilir çünkü metinde depresyon belirtileri açıkça belirtilmemiştir. Ancak, metindeki ifadelerden dolayı depresyon belirtilerinin orta veya şiddetli olabileceği düşünülebilir. Bu nedenle, metni 2 (Orta) şiddet seviyesine kategorize edebiliriz.
+2624: 3
+2625: 2
+2626: Bu metin 2 seviyesinde depresyonu temsil ediyor.
+2627: 3
+2628: 3
+2629: 2
+2630: 2
+2631: 2
+2632: 2
+2633: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2634: 3
+2635: 2
+2636: 2
+2637: 2
+2638: 2
+2639: 3
+2640: 3
+2641: 3
+2642: 2
+2643: 2
+2644: 2
+2645: 3
+2646: 2
+2647: 2
+2648: 2
+2649: 2
+2650: 2
+2651: 2
+2652: 2
+2653: 3
+2654: 2
+2655: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2656: 2
+2657: Bu metin hafif depresyon şiddet seviyesine sahiptir (1).
+2658: Metindeki ifadeleri değerlendirerek depresyon şiddet seviyesini belirlemeye çalışacağım. Metinde belirtilen durumlar genel olarak hafif stres ve endişe belirtileri içeriyor. Bu durumda metni 1 numaralı (Hafif) depresyon şiddet seviyesine kategorize edebilirim.
+2659: 2
+2660: 3
+2661: 3
+2662: 2
+2663: 3
+2664: 2
+2665: 2
+2666: 2
+2667: 2
+2668: 2
+2669: 2
+2670: 2
+2671: 1
+2672: 2
+2673: 2
+2674: 2
+2675: 3
+2676: 2
+2677: 2
+2678: Üzgünüm, ancak bir metni depresyon şiddet seviyelerine göre kategorize etmek uygun değildir. Eğer depresyon belirtileri yaşıyorsanız, bir sağlık profesyoneline danışmanız önemlidir. Yardımcı olabileceğim başka bir konu var mı?
+2679: 2
+2680: 3
+2681: 2
+2682: 2
+2683: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2684: 3
+2685: 2
+2686: 3
+2687: 2
+2688: 2
+2689: 2
+2690: 2
+2691: 2
+2692: Bu metin 2. seviye (Orta) depresyon belirtileri içermektedir.
+2693: 1
+2694: 2
+2695: 2
+2696: 3
+2697: 2
+2698: Bu metin 2 seviyesinde depresyon şiddeti içermektedir.
+2699: 2
+2700: 2
+2701: 2
+2702: 2
+2703: Bu metin 2 seviye depresyonu yansıtmaktadır.
+2704: Üzgünüm, metni doğrudan kategorize edemem. Ancak size yardımcı olabilirim. Eğer metinde belirtilen anket bağlantısına tıklamak isterseniz, size adım adım rehberlik edebilirim. Ayrıca, metinde belirtilen depresyon şiddet seviyelerine göre kategorize etmek isterseniz, lütfen metni doğru bir şekilde gizlilik politikalarına uygun olarak düzenleyerek tekrar paylaşın. Size nasıl yardımcı olabilirim?
+2705: 2
+2706: 2
+2707: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+2708: 2
+2709: 2
+2710: 3
+2711: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2712: 2
+2713: 2
+2714: 2
+2715: 3
+2716: 2
+2717: 3
+2718: 2
+2719: 2
+2720: Bu metin 2 numaralı depresyon şiddet seviyesine denk gelmektedir.
+2721: 3
+2722: 2
+2723: 3
+2724: 2
+2725: Bu metin 2 seviyesinde depresyon şiddeti içerebilir.
+2726: 2
+2727: 3
+2728: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+2729: 2
+2730: 3
+2731: 2
+2732: 2
+2733: 2
+2734: 2
+2735: 2
+2736: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2737: 2
+2738: 2
+2739: 2
+2740: 2
+2741: 2
+2742: 3
+2743: 3
+2744: 3
+2745: 2
+2746: 2
+2747: 3
+2748: 2
+2749: 2
+2750: 3
+2751: 2
+2752: 2
+2753: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2754: 3
+2755: Bu metin 2 şiddet seviyesinde depresyon belirtileri içeriyor.
+2756: 2
+2757: 3
+2758: 2
+2759: 2
+2760: 2
+2761: 2
+2762: 2
+2763: 2
+2764: 2
+2765: Metni analiz ettim ve depresyon şiddet seviyesini belirledim. Verilen metin hafif depresyon seviyesine denk gelmektedir, bu yüzden çıktı olarak 1 sonucunu veriyorum.
+2766: 3
+2767: 2
+2768: 2
+2769: 3
+2770: 2
+2771: 2
+2772: 2
+2773: 2
+2774: 2
+2775: 2
+2776: 2
+2777: 2
+2778: 2
+2779: 3
+2780: 2
+2781: Bu metin 1 numaralı hafif depresyon şiddet seviyesine denk gelmektedir.
+2782: 2
+2783: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2784: 2
+2785: 2
+2786: 1
+2787: 2
+2788: 2
+2789: 2
+2790: 2
+2791: 2
+2792: 2
+2793: 2
+2794: 2
+2795: 2
+2796: 3
+2797: 2
+2798: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+2799: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2800: 2
+2801: 2
+2802: 2
+2803: 3
+2804: 2
+2805: 2
+2806: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+2807: 2
+2808: Bu metin 2 (Orta) depresyon şiddet seviyesine karşılık gelmektedir.
+2809: 2
+2810: 3
+2811: 2
+2812: 2
+2813: 2
+2814: 2
+2815: 2
+2816: 3
+2817: 2
+2818: 2
+2819: 2
+2820: 2
+2821: 2
+2822: 3
+2823: 2
+2824: 3
+2825: 2
+2826: 3
+2827: 2
+2828: 2
+2829: 2
+2830: 2
+2831: 2
+2832: 2
+2833: 0, 1, 0, 0
+2834: 2
+2835: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+2836: 2
+2837: 2
+2838: 2
+2839: 2
+2840: 2
+2841: 2
+2842: 2
+2843: Metnin içeriğine göre depresyon şiddet seviyesi 1 (Hafif) olarak kategorize edilebilir.
+2844: 2
+2845: 2
+2846: 3
+2847: 2
+2848: 2
+2849: 3
+2850: 2
+2851: 3
+2852: 2
+2853: 2
+2854: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2855: 2
+2856: 1
+2857: 2
+2858: 2
+2859: 2
+2860: 2
+2861: 2
+2862: 2
+2863: 2
+2864: 2
+2865: 2
+2866: 2
+2867: 2
+2868: 2
+2869: 2
+2870: 2
+2871: 3
+2872: 2
+2873: 2
+2874: 2
+2875: 3
+2876: 2
+2877: 2
+2878: 2
+2879: 2
+2880: 2
+2881: 2
+2882: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+2883: 2
+2884: 3
+2885: Metin, 2 - Orta şiddet seviyesinde depresyon belirtileri içermektedir.
+2886: 2
+2887: 3
+2888: 3
+2889: 3
+2890: 2
+2891: 2
+2892: 3
+2893: 2
+2894: Bu metin 2 şiddet seviyesine denk gelmektedir.
+2895: 2
+2896: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+2897: 2
+2898: 2
+2899: Üzgünüm, ancak sizin için bir depresyon şiddet seviyesi belirleyemem. Eğer depresyon belirtileri yaşıyorsanız, bir sağlık profesyoneline danışmanız önemlidir. Yardımcı olabileceğim başka bir konu varsa lütfen belirtin.
+2900: 2
+2901: 2
+2902: 3
+2903: 2
+2904: Bu metin 3 şiddet seviyesine denk gelmektedir.
+2905: 2
+2906: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+2907: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2908: 2
+2909: 2
+2910: 2
+2911: 3
+2912: 2
+2913: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+2914: 2
+2915: 2
+2916: 2
+2917: 2
+2918: 3
+2919: 3
+2920: 3
+2921: 2
+2922: 3
+2923: 2
+2924: 2
+2925: 3
+2926: 2
+2927: 2
+2928: 3
+2929: 2
+2930: Bu metin 2. şiddet seviyesindeki depresyonu yansıtmaktadır.
+2931: 2
+2932: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2933: 2
+2934: 2
+2935: 2
+2936: 2
+2937: Metindeki ifadeleri değerlendirdikten sonra, bu durumu "3: Şiddetli" depresyon seviyesi olarak kategorize ediyorum.
+2938: 2
+2939: 2
+2940: 3
+2941: 2
+2942: 2
+2943: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+2944: 3
+2945: 3
+2946: 2
+2947: Verdiğiniz metin depresyon şiddet seviyeleriyle ilişkili olmadığı için bu metni kategorize etmek mümkün değil. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin.
+2948: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+2949: Metin, 2 seviyesinde depresyon şiddetiyle kategorize edilebilir.
+2950: 2
+2951: 2
+2952: 2
+2953: 2
+2954: 2
+2955: 2
+2956: 2
+2957: 2
+2958: 2
+2959: Bu metin 2 seviye depresyon belirtileri içermektedir.
+2960: 2
+2961: 1
+2962: 2
+2963: 2
+2964: 2
+2965: 3
+2966: 2
+2967: 2
+2968: 3
+2969: 2
+2970: 2
+2971: 2
+2972: 3
+2973: 3
+2974: 3
+2975: 2
+2976: 2
+2977: 2
+2978: 2
+2979: 2
+2980: 3
+2981: 2
+2982: 2
+2983: Bu metin 2 şiddet seviyesine sahiptir.
+2984: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+2985: 2
+2986: 2
+2987: 2
+2988: 2
+2989: 2
+2990: 3
+2991: 2
+2992: 3
+2993: 2
+2994: 2
+2995: 2
+2996: 3
+2997: 2
+2998: Bu metindeki durum, 2. seviye yani "Orta" depresyon şiddet seviyesine denk gelmektedir.
+2999: 2
+3000: 3
+3001: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3002: 3
+3003: 2
+3004: 2
+3005: 2
+3006: 1
+3007: 2
+3008: 2
+3009: 2
+3010: 2
+3011: 2
+3012: Bu metin 2 seviyesinde (Orta) depresyon şiddet seviyesine sahip olabilir.
+3013: 2
+3014: 2
+3015: 2
+3016: 2
+3017: 2
+3018: 2
+3019: 2
+3020: 3
+3021: 2
+3022: 3
+3023: 2
+3024: 2
+3025: 2
+3026: 2
+3027: 2
+3028: 3
+3029: Bu metin 3. şiddet seviyesindeki depresyon belirtilerini yansıtmaktadır.
+3030: 3
+3031: 2
+3032: 2
+3033: 2
+3034: 2
+3035: 2
+3036: 3
+3037: Bu metin 2 seviye depresyon olarak kategorize edilebilir.
+3038: 2
+3039: 2
+3040: 2
+3041: 2
+3042: 2
+3043: 2
+3044: 2
+3045: 2
+3046: Bu metin 1 (Hafif) depresyon şiddet seviyesine sahip olabilir.
+3047: 2
+3048: 2
+3049: 2
+3050: 2
+3051: 2
+3052: 3
+3053: 2
+3054: 2
+3055: 2
+3056: 3
+3057: 2
+3058: 3
+3059: 2
+3060: 3
+3061: 2
+3062: 2
+3063: 3
+3064: 2
+3065: 2
+3066: 3
+3067: 3
+3068: Maalesef, bağlantıları takip edemem veya anketleri yanıtlayamam. Ancak metni inceleyerek size yardımcı olabilirim. Lütfen metni paylaşın, ardından 4 depresyon şiddet seviyesinden birini belirlemem için gerekli olan bilgileri sağlayın.
+3069: 3
+3070: 2
+3071: 2
+3072: 2
+3073: 2
+3074: 2
+3075: 1
+3076: 2
+3077: 2
+3078: Özür dilerim, ancak bu metni 4 depresyon şiddet seviyesinden birine kategorize etmek uygun değildir. Bu tür bir konuda profesyonel bir sağlık uzmanından destek almanız önemlidir. Eğer başka bir konuda yardıma ihtiyacınız varsa, size nasıl yardımcı olabileceğimi belirtmekten mutluluk duyarım.
+3079: 2
+3080: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3081: 2
+3082: Bu metin 2. seviye olan "Orta" depresyon şiddet seviyesine kategorize edilebilir.
+3083: 2
+3084: 2
+3085: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+3086: 3
+3087: 2
+3088: 3
+3089: Üzgünüm, ancak verdiğiniz metin depresyon şiddet seviyeleri ile ilişkili değil. Başka bir konuda yardımcı olabilir miyim?
+3090: 2
+3091: 2
+3092: 2
+3093: 3
+3094: 3
+3095: 2
+3096: 2
+3097: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip.
+3098: 2
+3099: 2
+3100: 3
+3101: 2
+3102: 2
+3103: 2
+3104: 2
+3105: Bu metin, 3. şiddet seviyesindeki depresyon belirtilerini içermektedir.
+3106: 3
+3107: 2
+3108: 2
+3109: 2
+3110: 2
+3111: 2
+3112: 2
+3113: 2
+3114: 2
+3115: 3
+3116: 2
+3117: 2
+3118: 2
+3119: 3
+3120: 2
+3121: 2
+3122: 2
+3123: 2
+3124: 2
+3125: 2
+3126: 2
+3127: 1
+3128: 2
+3129: 3
+3130: 2
+3131: 2
+3132: 3
+3133: 2
+3134: 3
+3135: 3
+3136: 2
+3137: 2
+3138: 2
+3139: 2
+3140: 2
+3141: 2
+3142: 2
+3143: 2
+3144: 2
+3145: 3
+3146: 3
+3147: 3
+3148: 3
+3149: 2
+3150: 2
+3151: 2
+3152: 2
+3153: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip gibi görünüyor.
+3154: 3
+3155: 2
+3156: 2
+3157: 2
+3158: 3
+3159: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3160: 2
+3161: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3162: 2
+3163: 2
+3164: 3
+3165: 2
+3166: 2
+3167: 2
+3168: 2
+3169: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+3170: 2
+3171: Verdiğiniz metni inceledim ve depresyon şiddet seviyesini belirledim. Metinde iş arama ve para kazanma gibi stresli durumlarla ilgili ifadeler bulunmaktadır. Bu nedenle metni "2: Orta" depresyon şiddet seviyesine kategorize ediyorum. Umarım durumunuz yakında daha iyiye gider.
+3172: 2
+3173: 2
+3174: 2
+3175: 2
+3176: 2
+3177: 2
+3178: 3
+3179: 2
+3180: 2
+3181: 2
+3182: 2
+3183: 2
+3184: 2
+3185: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+3186: 3
+3187: 2
+3188: 3
+3189: 2
+3190: 2
+3191: 2
+3192: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3193: Bu metin 2 seviye depresyonu yansıtıyor.
+3194: 2
+3195: Bu metin 1 numaralı hafif depresyon şiddet seviyesine denk gelmektedir.
+3196: 2
+3197: 2
+3198: 2
+3199: 2
+3200: 2
+3201: 2
+3202: 2
+3203: 2
+3204: 3
+3205: 3
+3206: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+3207: 2
+3208: Bu metin 3. şiddet seviyesinde depresyon belirtileri içermektedir.
+3209: 2
+3210: 3
+3211: 3
+3212: 3
+3213: 2
+3214: 3
+3215: 2
+3216: 2
+3217: 3
+3218: 2
+3219: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+3220: 3
+3221: 2
+3222: Bu metin 2 şiddet seviyesine denk gelmektedir.
+3223: 2
+3224: 2
+3225: 1
+3226: 2
+3227: 2
+3228: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+3229: 3
+3230: 2
+3231: 1
+3232: 2
+3233: 2
+3234: 2
+3235: 2
+3236: Bu metni değerlendirerek 2. seviye olan "Orta" şiddet seviyesine kategorize edebilirim.
+3237: 2
+3238: 2
+3239: 2
+3240: 2
+3241: 2
+3242: 2
+3243: 2
+3244: 2
+3245: 1
+3246: 0, 1, 2, 1
+3247: 2
+3248: 2
+3249: 3
+3250: 3
+3251: 2
+3252: 2
+3253: Bu metin 3 şiddet seviyesine denk gelmektedir.
+3254: 2
+3255: 3
+3256: 2
+3257: 2
+3258: 3
+3259: 2
+3260: 2
+3261: 2
+3262: 2
+3263: Bu metin 2 seviyesinde depresyon belirtileri içermektedir.
+3264: 2
+3265: 2
+3266: 2
+3267: 3
+3268: 2
+3269: 2
+3270: 2
+3271: 1
+3272: 2
+3273: 2
+3274: 2
+3275: 2
+3276: 3
+3277: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+3278: 2
+3279: 3
+3280: 1
+3281: 3
+3282: 2
+3283: 2
+3284: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+3285: 2
+3286: 2
+3287: 2
+3288: 2
+3289: 3
+3290: 2
+3291: 2
+3292: 3
+3293: 3
+3294: 2
+3295: Metin, 1. seviye olan "Hafif" depresyon şiddet seviyesine denk gelmektedir.
+3296: 2
+3297: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+3298: 2
+3299: Bu metindeki belirtiler 2. seviye olan "Orta" depresyon şiddet seviyesine denk gelmektedir.
+3300: 2
+3301: 3
+3302: 2
+3303: 2
+3304: 2
+3305: 3
+3306: 3
+3307: 2
+3308: 2
+3309: 3
+3310: 3
+3311: 3
+3312: 2
+3313: 2
+3314: Bu metin 2 şiddet seviyesinde depresyon belirtileri içermektedir.
+3315: 2
+3316: 3
+3317: 3
+3318: Bu metni değerlendirdikten sonra depresyon şiddet seviyesi olarak 1 (Hafif) çıktısını veriyorum.
+3319: 2
+3320: 2
+3321: 3
+3322: 2
+3323: 3
+3324: 2
+3325: 2
+3326: 2
+3327: 3
+3328: 3
+3329: 2
+3330: 2
+3331: 2, 1, 1, 0
+3332: 2
+3333: 2
+3334: Bu metin, 3: Şiddetli depresyon şiddet seviyesine denk gelmektedir.
+3335: 3
+3336: 3
+3337: 2
+3338: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+3339: Bu metin 2 şiddet seviyesine denk gelmektedir.
+3340: 2
+3341: Bu metin 3. seviye depresyonu yansıtmaktadır.
+3342: 2
+3343: 2
+3344: Bu metin 2 seviyesinde (Orta) depresyon belirtileri içermektedir.
+3345: 2
+3346: 2
+3347: Bu metin 2 seviye depresyonu yansıtıyor.
+3348: 3
+3349: 3
+3350: Bu metin 2 seviye depresyonu yansıtıyor.
+3351: 2
+3352: 2
+3353: 3
+3354: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+3355: 3
+3356: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+3357: 2
+3358: 3
+3359: 3
+3360: 2
+3361: Bu metin 2 (Orta) depresyon şiddet seviyesine sahip.
+3362: 2
+3363: 2
+3364: 3
+3365: 2
+3366: 3
+3367: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+3368: 2
+3369: Metin, 2. seviye depresyonu yansıtmaktadır.
+3370: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir.
+3371: 3
+3372: 3
+3373: 2
+3374: 2
+3375: 3
+3376: 3
+3377: 2
+3378: 2
+3379: 2
+3380: 2
+3381: 2
+3382: 3
+3383: 2
+3384: 2
+3385: Verdiğiniz metinde depresyon şiddet seviyelerine göre belirgin bir işaret bulunmamaktadır. Bu nedenle metni analiz ederek bir depresyon şiddet seviyesi belirlemem mümkün değildir. Eğer başka bir metin analizi veya yardım gerekiyorsa lütfen belirtin, size yardımcı olmaktan mutluluk duyarım.
+3386: Bu metni değerlendirerek depresyon şiddet seviyesini belirlemek zor olabilir çünkü metinde belirtilen durumlar depresyon belirtileriyle karışabilir. Ancak, metindeki belirtiler genel olarak hafif depresyon belirtilerine işaret ediyor gibi görünmektedir. Bu nedenle, bu durumu 1 (Hafif) olarak kategorize edebiliriz.
+3387: 3
+3388: 2
+3389: 2
+3390: 3
+3391: 1
+3392: 3
+3393: 2
+3394: 3
+3395: 2
+3396: 2
+3397: 3
+3398: 2
+3399: 2
+3400: Bu metin 2. seviye depresyonu yansıtıyor.
+3401: 2
+3402: Metni inceledim ve depresyon şiddet seviyesini belirlemek için yeterli bilgi bulunmamaktadır. Bu nedenle bir değerlendirme yapamam. Eğer daha fazla detay verirseniz size yardımcı olabilirim.
+3403: 3
+3404: 2
+3405: 2
+3406: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+3407: 2
+3408: 2
+3409: Bu metindeki depresyon şiddet seviyesi 1'dir (Hafif).
+3410: 2
+3411: 2
+3412: 2
+3413: Bu metni değerlendirirken depresyon şiddet seviyelerine göre kategorize etmek uygun değildir. Depresyon genellikle duygudurum, enerji seviyesi, motivasyon ve diğer belirtiler üzerinden değerlendirilir. Bu metindeki anlatımın depresyon şiddet seviyeleriyle ilişkilendirilmesi doğru olmayabilir. Eğer depresyon belirtileri hakkında endişeleriniz varsa, bir sağlık profesyoneline danışmanız önemlidir.
+3414: 2
+3415: 2
+3416: 2
+3417: Bu metin 3. seviye depresyonu yansıtmaktadır.
+3418: 2
+3419: 2
+3420: 2
+3421: 2, 1, 1, 3, 1
+3422: 3
+3423: 2
+3424: 2
+3425: 2
+3426: Bu metin 2 seviyesinde depresyon belirtileri içeriyor.
+3427: 2
+3428: 3
+3429: 2
+3430: 2
+3431: 2
+3432: 3
+3433: 2
+3434: 3
+3435: 2
+3436: 3
+3437: 3
+3438: 2
+3439: 2
+3440: 2
+3441: 2
+3442: 2
+3443: 2
+3444: 2
+3445: 3
+3446: Bu metin 3. seviye (Şiddetli) depresyon belirtileri içermektedir.
+3447: 3
+3448: 2
+3449: 2
+3450: 2
+3451: 3
+3452: 2
+3453: Bu metin 2 seviyesinde (Orta) depresyon şiddetinde kategorilendirilebilir.
+3454: 2
+3455: 3
+3456: 2
+3457: Bu metin 3 şiddet seviyesine denk gelmektedir.
+3458: 3
+3459: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3460: 2
+3461: 2
+3462: 2
+3463: 2
+3464: 2
+3465: Bu metin 1 (Hafif) depresyon şiddet seviyesine denk gelmektedir.
+3466: 2
+3467: 2
+3468: 2
+3469: 2
+3470: 2
+3471: 3
+3472: 2
+3473: 3
+3474: 2
+3475: Bu metin 2. seviye (Orta) depresyon şiddet seviyesine sahip.
+3476: 2
+3477: 3
+3478: 2
+3479: 3
+3480: 2
+3481: 3
+3482: Bu metin 2. seviye olan "Orta" depresyon şiddet seviyesine denk gelmektedir.
+3483: 2
+3484: 2
+3485: 2
+3486: 3
+3487: 2
+3488: 2
+3489: 3
+3490: 3
+3491: 2
+3492: 3
+3493: 2
+3494: 2
+3495: 2
+3496: 2
+3497: 2
+3498: 2
+3499: 2
+3500: 3
+3501: Bu metin 2 şiddet seviyesinde depresyon belirtileri içeriyor.
+3502: Özür dilerim, ancak verdiğiniz metin depresyon şiddet seviyeleri ile ilgili değil. Eğer başka bir konuda yardıma ihtiyacınız varsa lütfen belirtin, size yardımcı olmaktan mutluluk duyarım.
+3503: 3
+3504: 3
+3505: 3
+3506: Bu metin 2 seviyesinde depresyon şiddeti içerebilir.
+3507: 2
+3508: 2
+3509: Bu metin 3 şiddet seviyesine denk gelmektedir.
+3510: Bu metin 2 seviyesinde depresyonu yansıtıyor.
+3511: 2
+3512: 2
+3513: 2
+3514: 3
+3515: 2
+3516: 2
+3517: 2
+3518: Bu metin 2 şiddet seviyesinde depresyon belirtileri içeriyor.
+3519: 3
+3520: 2
+3521: 3
+3522: 3
+3523: 2
+3524: 2
+3525: 2
+3526: 3
+3527: Bu metin 3 (Şiddetli) depresyon şiddet seviyesine denk gelmektedir.
+3528: 2
+3529: 2
+3530: 3
+3531: 2
+3532: 2
+3533: 3
+3534: 2
+3535: 2
+3536: 3
+3537: 3
+3538: 3
+3539: 2
+3540: Verilen metin depresyon şiddet seviyesi kategorizasyonu için uygun değil. Başka bir metin veya konu hakkında yardım isterseniz size yardımcı olabilirim.
+3541: 2
+3542: 2
+3543: 2
+3544: 3
+3545: Bu metin 2. seviye (Orta) depresyon belirtileri içermektedir.
+3546: 2
+3547: Bu metin 2 (Orta) depresyon şiddet seviyesine denk gelmektedir.
+3548: 3
+3549: Bu metin hafif depresyon şiddet seviyesine denk gelmektedir. Bu nedenle çıktı olarak 1'i veriyorum.
+3550: 2
+3551: 2
+3552: 2

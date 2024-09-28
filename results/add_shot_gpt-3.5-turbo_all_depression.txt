@@ -1,0 +1,133 @@
+english
+Accuracy: 0.2091190543202927
+Report
+:               precision    recall  f1-score   support
+
+           0       0.90      0.14      0.25      2587
+           1       0.03      0.06      0.04       290
+           2       0.14      0.65      0.23       394
+           3       0.15      0.35      0.21       282
+
+    accuracy                           0.21      3553
+   macro avg       0.30      0.30      0.18      3553
+weighted avg       0.69      0.21      0.22      3553
+
+
+Macro F1 Score: 0.18096879938644916
+Micro F1 Score: 0.2091190543202927
+
+Per-class accuracy:[0.14302281 0.06206897 0.64974619 0.35106383]
+turkish
+Accuracy: 0.2423304249929637
+Report
+:               precision    recall  f1-score   support
+
+           0       0.76      0.23      0.36      2587
+           1       0.07      0.10      0.08       290
+           2       0.11      0.29      0.16       394
+           3       0.09      0.40      0.14       282
+
+    accuracy                           0.24      3553
+   macro avg       0.26      0.26      0.18      3553
+weighted avg       0.57      0.24      0.30      3553
+
+
+Macro F1 Score: 0.18498566588461426
+Micro F1 Score: 0.2423304249929637
+
+Per-class accuracy:[0.23386162 0.09655172 0.29441624 0.39716312]
+french
+Accuracy: 0.17984801576132844
+Report
+:               precision    recall  f1-score   support
+
+           0       0.91      0.11      0.19      2587
+           1       0.04      0.04      0.04       290
+           2       0.13      0.44      0.20       394
+           3       0.11      0.61      0.19       282
+
+    accuracy                           0.18      3553
+   macro avg       0.30      0.30      0.16      3553
+weighted avg       0.69      0.18      0.18      3553
+
+
+Macro F1 Score: 0.1550097589591553
+Micro F1 Score: 0.17984801576132842
+
+Per-class accuracy:[0.10784693 0.04137931 0.44416244 0.61347518]
+portuguese
+Accuracy: 0.18857303687025048
+Report
+:               precision    recall  f1-score   support
+
+           0       0.90      0.11      0.20      2587
+           1       0.05      0.14      0.07       290
+           2       0.15      0.51      0.23       394
+           3       0.13      0.48      0.20       282
+
+    accuracy                           0.19      3553
+   macro avg       0.31      0.31      0.18      3553
+weighted avg       0.69      0.19      0.19      3553
+
+
+Macro F1 Score: 0.1767145030186029
+Micro F1 Score: 0.18857303687025048
+
+Per-class accuracy:[0.1132586  0.14137931 0.51269036 0.4751773 ]
+german
+Accuracy: 0.582324795947087
+Report
+:               precision    recall  f1-score   support
+
+           0       0.76      0.75      0.76      2587
+           1       0.07      0.08      0.07       290
+           2       0.16      0.23      0.19       394
+           3       0.16      0.07      0.09       282
+
+    accuracy                           0.58      3553
+   macro avg       0.29      0.28      0.28      3553
+weighted avg       0.59      0.58      0.58      3553
+
+
+Macro F1 Score: 0.2780503407766398
+Micro F1 Score: 0.582324795947087
+
+Per-class accuracy:[0.74835717 0.07586207 0.23350254 0.06737589]
+greek
+Accuracy: 0.11201801294680552
+Report
+:               precision    recall  f1-score   support
+
+           0       0.79      0.02      0.05      2587
+           1       0.05      0.10      0.06       290
+           2       0.14      0.26      0.18       394
+           3       0.10      0.73      0.17       282
+
+    accuracy                           0.11      3553
+   macro avg       0.27      0.28      0.12      3553
+weighted avg       0.60      0.11      0.07      3553
+
+
+Macro F1 Score: 0.115426492348402
+Micro F1 Score: 0.11201801294680552
+
+Per-class accuracy:[0.02319289 0.10344828 0.26142132 0.72695035]
+finnish
+Accuracy: 0.1925133689839572
+Report
+:               precision    recall  f1-score   support
+
+           0       0.68      0.16      0.25      2587
+           1       0.03      0.08      0.05       290
+           2       0.13      0.39      0.19       394
+           3       0.10      0.37      0.16       282
+
+    accuracy                           0.19      3553
+   macro avg       0.23      0.25      0.16      3553
+weighted avg       0.52      0.19      0.22      3553
+
+
+Macro F1 Score: 0.16250035641426663
+Micro F1 Score: 0.1925133689839572
+
+Per-class accuracy:[0.15577889 0.08275862 0.38832487 0.36879433]
